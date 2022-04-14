@@ -1,3 +1,7 @@
+body {
+    background-image: url('https://www.toptal.com/designers/subtlepatterns/uploads/cartographer.png');
+}
+
 #introSection {
     background-image: url('https://www.toptal.com/designers/subtlepatterns/uploads/diagmonds.png')
 }
@@ -19,11 +23,9 @@
     padding: 0.5em;
 }
 
-
 #aboutLink:hover {
     color: #50BFE6;
 }
-
 
 #workLink {
     padding: 0.5em;
@@ -62,6 +64,16 @@
     line-height: 2em;
     margin-top: 2em;
     margin-bottom: 4em;
+}
+
+#bar {
+    height: 2em;
+    background-color: #2D383A;
+}
+
+.box-shadow{
+  box-shadow: 1px 3px 8px 1px black;
+    -webkit-box-shadow: 1px 3px 8px 1px black;
 }
 
 @media only screen and (max-width: 1420px) {
