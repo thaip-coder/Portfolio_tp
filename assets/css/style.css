@@ -1,0 +1,65 @@
+#introSection {
+    background-image: url('https://www.toptal.com/designers/subtlepatterns/uploads/diagmonds.png')
+}
+
+#topIntro {
+    padding: 2em !important;
+}
+
+.links {
+    text-decoration: none !important;
+    color: grey;
+}
+
+.activeLink {
+    color: #50BFE6 !important;
+}
+
+#aboutLink {
+    padding: 0.5em;
+}
+
+
+#aboutLink:hover {
+    color: #50BFE6;
+}
+
+
+#workLink {
+    padding: 0.5em;
+}
+
+#workLink:hover {
+    color: #50BFE6;
+}
+
+#nameTitle {
+    line-height: 1.2em;
+}
+
+#name {
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+}
+
+#nameColor {
+    color: #50BFE6;
+}
+
+#jobTitle {
+    color: #0081AB;
+    font-size: medium;
+}
+
+#bannerText {
+    color: white;
+    font-size: x-large;
+    font-weight: 400;
+    padding-right: 6em;
+    padding-left: 6em;
+    text-align: center;
+    line-height: 2em;
+    margin-top: 2em;
+    margin-bottom: 4em;
+}
